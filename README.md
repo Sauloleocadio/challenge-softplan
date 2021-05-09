@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<h3 align="center">
+  Desafio SOFTPLAN.
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Esse desafio foi feito a partir dos requisitos pedidos pela a empresa baseado na api <a href="https://github.com/lennertVanSever/graphcountries">
+  https://github.com/lennertVanSever/graphcountries</a></p>
 
-## Available Scripts
+<blockquote align="center">“O tempo que leva para realizar seus sonhos vai passar de qualquer forma”!</blockquote>
 
-In the project directory, you can run:
+<p align="center">
 
-### `yarn start`
+  <a href="https://sauloleocadio.github.io/mycurriculum"/>
+    <img alt="By Saulo leocádio" src="https://sauloleocadio.github.io/mycurriculum/assets/images/profile.png" />
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361" />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</p>
 
-### `yarn test`
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🏆 Sobre o desafio
 
-### `yarn build`
+Seguem as instruções para a próxima fase do nosso processo seletivo:
+Crie um projeto utilizando React e a API Graph Countries
+(https://github.com/lennertVanSever/graphcountries) seguindo as especificações abaixo.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Funcionalidades esperadas:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Crie uma lista de cards para exibir os países mostrando a bandeira, o nome e a capital dele;
+- Possibilite o usuário buscar países;
+- Na lista, o usuário pode ir para a página de detalhes do país e ver uma lista mais completa de
+  informações (bandeira, nome, capital, área, população e top-level domain);
+- Crie um formulário para editar os dados de um país (salvando apenas no client-side);
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Restrições técnicas:
 
-### `yarn eject`
+- Utilize o create-react-app como base;
+- Utilize redux para gerenciar o estado;
+- Utilize react-router para trocar de página;
+- Utilize @testing-library/react para testes;
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Diferenciais:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Crie uma pipeline no GitLab; (Exemplo: build =&gt; test =&gt; deploy);
+- Entregar o projeto publicado e funcionando em alguma URL;
+- Garanta 100% de cobertura no projeto com testes unitários;
+- Substituir o redux pelo Local state management do Apollo Client;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Desafio Super Front:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Na tela de detalhes do país, adicionar um mapa mostrando a distância entre o país e os 5 países
+  mais próximos;
 
-## Learn More
+### Informações importantes
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Segue o link de acesso ao deploy [DESAFIO SOFTPLAN](https://challengesoftplan.netlify.app).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 Licença
 
-### Code Splitting
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com ♥ by SAULO LEOCÁDIO :wave: , qualquer dúvida [SÓ CHAMAR](https://linktr.ee/sauloleocadio)

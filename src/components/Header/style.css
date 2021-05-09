@@ -1,0 +1,34 @@
+.containerheader {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 0px 10px 0px;
+  background-color: #22212c;
+  width: 100%;
+}
+
+.containerheader__logo {
+  max-width: 110px;
+  max-height: 110px;
+}
+
+.containerheader__namecontries {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.containerheader__namecontries div {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.containerheader__namecontries strong {
+  color: #ffffff;
+  display: block;
+}
+
+.containerheader__namecontries span {
+  color: #ffffff;
+  font-size: 15px;
+}
