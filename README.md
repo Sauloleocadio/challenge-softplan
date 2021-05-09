@@ -5,7 +5,7 @@
 <p>Esse desafio foi feito a partir dos requisitos pedidos pela a empresa baseado na api <a href="https://github.com/lennertVanSever/graphcountries">
   https://github.com/lennertVanSever/graphcountries</a></p>
 
-<blockquote align="center">“O tempo que leva para realizar seus sonhos vai passar de qualquer forma”!</blockquote>
+<blockquote align="center">“Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende”!</blockquote>
 
 <p align="center">
 
@@ -15,8 +15,11 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://challengesoftplan.netlify.app">Link do deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pre-requisitos">Pré-requisito</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-   <a href="https://challengesoftplan.netlify.app">Link do deploy</a>
 </p>
 
 ## 🏆 Sobre o desafio
@@ -52,9 +55,64 @@ Desafio Super Front:
 - Na tela de detalhes do país, adicionar um mapa mostrando a distância entre o país e os 5 países
   mais próximos;
 
-### Informações importantes
+## Informações importantes
 
 1. Segue o link de acesso ao deploy [DESAFIO SOFTPLAN](https://challengesoftplan.netlify.app).
+
+## ✅ Demonstração
+
+<img src="https://github.com/Sauloleocadio/challenge-softplan/blob/master/src/assets/img/systemone.png" /> 
+<img src="https://github.com/Sauloleocadio/challenge-softplan/blob/master/src/assets/img/systemtwo.png" />
+
+## ⚙ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Yarn](https://yarnpkg.com/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+- Possuir contas na [Netlify](https://app.netlify.com/) para deploys de front
+
+## 📗 Rodando a Aplicação (web)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/Sauloleocadio/challenge-softplan.git
+
+# Navegue até a pasta
+$ cd challenge-softplan
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação
+$ yarn start
+```
+
+## 📎 Features
+
+- [x] Listagem de Paises
+- [x] Pesquisa na lista
+- [x] Detalhamento completo do pais
+- [x] Mapa com distância média entre os países
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- React
+- React-Redux
+- Redux
+- Javascript
+
+## 📕 Bibliotecas
+
+Esse projeto foi utilizou das seguintes lib:
+
+- leaflet
+- react-router-dom
+- react-leaflet
+- axios
+- react-loading-skeleton
 
 ## 📝 Licença
 
