@@ -61,8 +61,8 @@ Desafio Super Front:
 
 ## ✅ Demonstração
 
-<img src="https://github.com/Sauloleocadio/challenge-softplan/blob/master/src/assets/img/systemone.png" /> 
-<img src="https://github.com/Sauloleocadio/challenge-softplan/blob/master/src/assets/img/systemtwo.png" />
+<img src="https://github.com/Sauloleocadio/challenge-softplan/blob/master/src/assets/systemone.png" /> 
+<img src="https://github.com/Sauloleocadio/challenge-softplan/blob/master/src/assets/systemtwo.png" />
 
 ## ⚙ Pré-requisitos
 
