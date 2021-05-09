@@ -9,10 +9,6 @@
 
 <p align="center">
 
-  <a href="https://sauloleocadio.github.io/mycurriculum"/>
-    <img alt="By Saulo leocádio" src="https://sauloleocadio.github.io/mycurriculum/assets/images/profile.png" />
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361" />
 
 </p>
@@ -20,6 +16,7 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+   <a href="https://challengesoftplan.netlify.app">Link do deploy</a>
 </p>
 
 ## 🏆 Sobre o desafio
